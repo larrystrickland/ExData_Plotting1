@@ -1,6 +1,6 @@
-## Assignment 1
+## Course Project 1 exdata-007
 
-This repo contains the .R files and .png results for assignemt 1.
+This repo contains the .R files and .png results for Course Project 1 exdata-007.
 
 All .R files assume that the file household_power_consumption.txt is in the working directory.
 
